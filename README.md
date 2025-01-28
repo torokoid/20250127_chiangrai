@@ -162,7 +162,7 @@ p.note { display: none; }
 <a href="20250127_015.jpg" target="_blank"><img src="20250127_015.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250127_016.jpg" target="_blank"><img src="20250127_016.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">遅れてかえったヒナが置き去りだったので一時保護<br>画像クリックで動画再生します ↓</span></h2>
+<h2><span class="yellow">遅れてかえったヒナが置き去りだったので、捕食されないように一時保護<br>画像クリックで動画再生します ↓</span></h2>
 <a href="https://youtube.com/shorts/A5_weqM3z_8?feature=share" target="_blank"><img src="20250127_017.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ニワトリ親子は野生生物が怖くて、人間エリアに避難中</span></h2>
