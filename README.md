@@ -146,7 +146,7 @@ p.note { display: none; }
 <a href="20250127_007.jpg" target="_blank"><img src="20250127_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250127_008.jpg" target="_blank"><img src="20250127_008.jpg" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow”>この木のお花は開かずに落ちちゃいます</span></h2>
+<h2><span class="yellow">この木のお花は開かずに落ちちゃいます</span></h2>
 <a href="20250127_010.jpg" target="_blank"><img src="20250127_010.jpg" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">ほぼこのままの姿でみんな落ちます</span></h2>
